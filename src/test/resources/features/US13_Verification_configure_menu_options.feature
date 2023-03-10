@@ -1,8 +1,7 @@
 @regression
 @configure_menu
-Feature:
-  As a user, I should be able to configure the menu.
-  Acceptance Criteria:
+Feature:As a user, I should be able to configure the menu
+
 
   Scenario:  Verify users can access to 6 options under the CONFIGURE MENU.
     Given users are on the Homepage
