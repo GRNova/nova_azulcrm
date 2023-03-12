@@ -15,7 +15,7 @@ public class US14_CompanyPage_StepDefs extends BasePage {
     CompanyPage companyPage = new CompanyPage();
     @When("users click the Company module")
     public void users_click_the_company_module() {
-       /* for (WebElement eachOption : leftMenu) {
+       /* for (WebElement  eachOption : leftMenu) {
             if (eachOption.getText().equals("Company")){
                 eachOption.click();
                 break;
